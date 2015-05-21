@@ -1,8 +1,13 @@
-h1{
+@import url(http://fonts.googleapis.com/css?family=Nosifer);
+body{
+  background-color: gray; 
+}
+    h1{
   position: absolute;
   right: 265px;
   top: 110px;
   text-shadow: 5px 5px #FF0000;
+  font-family: Nosifer;
 }
 #pig{
   position: absolute;
@@ -21,4 +26,8 @@ h1{
 p{
   position: absolute;
   top: 200px
+  font-family: Nosifer;
 }
+
+    
+   
