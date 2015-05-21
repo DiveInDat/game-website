@@ -10,7 +10,7 @@ h1{
 }
 img{
   position: absolute;
-  left: 150%;
+  margin-left: 150%;
 }
 p{
   position: absolute;
