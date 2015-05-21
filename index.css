@@ -11,14 +11,17 @@ h1{
 #pig{
   position: absolute;
   margin-left: 25%;
+  margin-top: 110%;
 }
 #Chicken{
   position: absolute;
   margin-left: 50%;
+  margin-top: 115%;
 }
 #Cow{
   position: absolute;
   margin-left: 75%;
+  margin-left: 120%;
 }
 p{
   position: absolute;
