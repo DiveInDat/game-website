@@ -3,9 +3,7 @@ body{
   background-color: gray; 
 }
     h1{
-  position: absolute;
-  right: 265px;
-  top: 110px;
+  text-align: center;
   text-shadow: 5px 5px #FF0000;
   font-family: Nosifer;
 }
