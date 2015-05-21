@@ -8,9 +8,17 @@ h1{
   text-shadow: 5px 5px #FF0000;
   font-family: Nosifer;
 }
-img{
+#pig{
+  position: absolute;
+  margin-left: 25%;
+}
+#Chicken{
   position: absolute;
   margin-left: 50%;
+}
+#Cow{
+  position: absolute;
+  margin-left: 75%;
 }
 p{
   position: absolute;
