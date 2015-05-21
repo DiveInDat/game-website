@@ -2,25 +2,14 @@
 body{
   background-color: gray; 
 }
-    h1{
+h1{
   top: 110;
   text-align: center;
   text-shadow: 5px 5px #FF0000;
   font-family: Nosifer;
 }
-#pig{
-  position: absolute;
-  left: 300px;
-  top: 30px
-}
-#Chicken{
-  position: absolute;
-  left: 400px;
-}
-#Cow{
-  position: absolute;
-  left:  500px;
-  top: 20px;
+img{
+  position: center;
 }
 p{
   position: absolute;
